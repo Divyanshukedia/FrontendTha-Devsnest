@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div{
+                background-color: gray;
+            }
+            h3,p{
+                font-size: 20px;
+                font-weight: bold;    
+            }
+        </style>
+        <title>Request letter </title><div>
+        <body><center><h1><em></em>Request letter for permission to attend bootcamp organised by Devsnest.<b></center><br></b></h1>
+          <h3>To: <br>
+             The Dean, <br>
+            Dayananda Sagar University. <br>
+            Kudlu gate <br>
+            Bangalore <br> 
+            Pin code: 560083 <br>
+           <h3>Date: 27/5/2021</h3> 
+            <h3>from: <br>
+                Divyanshu kedia<br>
+                   Shubash Mandi <br>
+                   Neem Ka Thana<br>
+                   Pin code: 332713<br></h3>
+            <h3>Respected sir,<br></h3>
+        <h3> Subject : Request for permission to attend bootcamp organised by Devsnest.</h3>
+            <p>I am Divyanshu Kedia ,studying in first year , section B1 with USN ENG20CS0094 . Sir, an organization named Devsnest have organised a web Development bootcamp for 6 months.They are offer us the best training in front-end and backend aswell.In this course they will be covering html , css , javascript , python , and many more things. I have attended its few courses and discord server , looking at there services i would like to be a part of this bootcamp.
+                Therefore, I kindly request you to grant me a permission for attending this bootcamp.
+                Thank you, </p>
+      <h3>Yours Sincerely, <br>
+        Divyanshu Kedia.  </h3><br></div>
+        </body>
+    </head>
+</html>
